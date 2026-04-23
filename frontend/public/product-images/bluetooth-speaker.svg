@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ede7f6"/>
+      <stop offset="100%" stop-color="#d1c4e9"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="600" rx="48" fill="url(#bg)"/>
+  <rect x="145" y="185" width="310" height="220" rx="52" fill="#4527a0"/>
+  <circle cx="235" cy="295" r="72" fill="#7e57c2"/>
+  <circle cx="235" cy="295" r="44" fill="#d1c4e9"/>
+  <circle cx="365" cy="295" r="72" fill="#7e57c2"/>
+  <circle cx="365" cy="295" r="44" fill="#d1c4e9"/>
+  <circle cx="477" cy="215" r="20" fill="#7e57c2"/>
+  <path d="M500 185c16 14 26 32 30 55" stroke="#7e57c2" stroke-width="10" fill="none" stroke-linecap="round"/>
+  <path d="M120 250c-18 15-30 34-34 59" stroke="#7e57c2" stroke-width="10" fill="none" stroke-linecap="round"/>
+  <text x="300" y="535" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="700" fill="#311b92">Bluetooth Speaker</text>
+</svg>

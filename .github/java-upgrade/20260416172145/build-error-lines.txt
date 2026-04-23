@@ -1,0 +1,116 @@
+﻿[ERROR] COMPILATION ERROR : 
+[ERROR] /C:/java application/backend/src/main/java/com/example/ecommerce/service/ProductService.java:[33,43] cannot find symbol
+[ERROR] /C:/java application/backend/src/main/java/com/example/ecommerce/service/ProductService.java:[34,50] cannot find symbol
+[ERROR] /C:/java application/backend/src/main/java/com/example/ecommerce/service/ProductService.java:[35,44] cannot find symbol
+[ERROR] /C:/java application/backend/src/main/java/com/example/ecommerce/service/ProductService.java:[36,47] cannot find symbol
+[ERROR] /C:/java application/backend/src/main/java/com/example/ecommerce/service/ProductService.java:[37,44] cannot find symbol
+[ERROR] /C:/java application/backend/src/main/java/com/example/ecommerce/service/ProductService.java:[38,45] cannot find symbol
+[ERROR] /C:/java application/backend/src/main/java/com/example/ecommerce/service/ProductService.java:[39,49] cannot find symbol
+[ERROR] /C:/java application/backend/src/main/java/com/example/ecommerce/service/ProductService.java:[40,51] cannot find symbol
+[ERROR] /C:/java application/backend/src/main/java/com/example/ecommerce/config/DataInitializer.java:[19,36] constructor Product in class com.example.ecommerce.entity.Product cannot be applied to given types;
+[ERROR] /C:/java application/backend/src/main/java/com/example/ecommerce/config/DataInitializer.java:[20,36] constructor Product in class com.example.ecommerce.entity.Product cannot be applied to given types;
+[ERROR] /C:/java application/backend/src/main/java/com/example/ecommerce/config/DataInitializer.java:[21,36] constructor Product in class com.example.ecommerce.entity.Product cannot be applied to given types;
+[ERROR] /C:/java application/backend/src/main/java/com/example/ecommerce/config/DataInitializer.java:[22,36] constructor Product in class com.example.ecommerce.entity.Product cannot be applied to given types;
+[ERROR] /C:/java application/backend/src/main/java/com/example/ecommerce/config/DataInitializer.java:[23,36] constructor Product in class com.example.ecommerce.entity.Product cannot be applied to given types;
+[ERROR] /C:/java application/backend/src/main/java/com/example/ecommerce/config/DataInitializer.java:[24,36] constructor Product in class com.example.ecommerce.entity.Product cannot be applied to given types;
+[ERROR] /C:/java application/backend/src/main/java/com/example/ecommerce/config/DataInitializer.java:[26,36] constructor Product in class com.example.ecommerce.entity.Product cannot be applied to given types;
+[ERROR] /C:/java application/backend/src/main/java/com/example/ecommerce/config/DataInitializer.java:[27,36] constructor Product in class com.example.ecommerce.entity.Product cannot be applied to given types;
+[ERROR] /C:/java application/backend/src/main/java/com/example/ecommerce/config/DataInitializer.java:[28,36] constructor Product in class com.example.ecommerce.entity.Product cannot be applied to given types;
+[ERROR] /C:/java application/backend/src/main/java/com/example/ecommerce/config/DataInitializer.java:[30,36] constructor Product in class com.example.ecommerce.entity.Product cannot be applied to given types;
+[ERROR] /C:/java application/backend/src/main/java/com/example/ecommerce/config/DataInitializer.java:[31,36] constructor Product in class com.example.ecommerce.entity.Product cannot be applied to given types;
+[ERROR] /C:/java application/backend/src/main/java/com/example/ecommerce/config/DataInitializer.java:[33,36] constructor Product in class com.example.ecommerce.entity.Product cannot be applied to given types;
+[ERROR] /C:/java application/backend/src/main/java/com/example/ecommerce/config/DataInitializer.java:[34,36] constructor Product in class com.example.ecommerce.entity.Product cannot be applied to given types;
+[ERROR] /C:/java application/backend/src/main/java/com/example/ecommerce/config/DataInitializer.java:[36,36] constructor Product in class com.example.ecommerce.entity.Product cannot be applied to given types;
+[ERROR] /C:/java application/backend/src/main/java/com/example/ecommerce/config/DataInitializer.java:[37,36] constructor Product in class com.example.ecommerce.entity.Product cannot be applied to given types;
+[ERROR] Failed to execute goal org.apache.maven.plugins:maven-compiler-plugin:3.11.0:compile (default-compile) on project ecommerce: Compilation failure: Compilation failure: 
+[ERROR] /C:/java application/backend/src/main/java/com/example/ecommerce/service/ProductService.java:[33,43] cannot find symbol
+[ERROR]   symbol:   method getName()
+[ERROR]   location: variable productDetails of type com.example.ecommerce.entity.Product
+[ERROR] /C:/java application/backend/src/main/java/com/example/ecommerce/service/ProductService.java:[34,50] cannot find symbol
+[ERROR]   symbol:   method getDescription()
+[ERROR]   location: variable productDetails of type com.example.ecommerce.entity.Product
+[ERROR] /C:/java application/backend/src/main/java/com/example/ecommerce/service/ProductService.java:[35,44] cannot find symbol
+[ERROR]   symbol:   method getPrice()
+[ERROR]   location: variable productDetails of type com.example.ecommerce.entity.Product
+[ERROR] /C:/java application/backend/src/main/java/com/example/ecommerce/service/ProductService.java:[36,47] cannot find symbol
+[ERROR]   symbol:   method getCategory()
+[ERROR]   location: variable productDetails of type com.example.ecommerce.entity.Product
+[ERROR] /C:/java application/backend/src/main/java/com/example/ecommerce/service/ProductService.java:[37,44] cannot find symbol
+[ERROR]   symbol:   method getImage()
+[ERROR]   location: variable productDetails of type com.example.ecommerce.entity.Product
+[ERROR] /C:/java application/backend/src/main/java/com/example/ecommerce/service/ProductService.java:[38,45] cannot find symbol
+[ERROR]   symbol:   method getRating()
+[ERROR]   location: variable productDetails of type com.example.ecommerce.entity.Product
+[ERROR] /C:/java application/backend/src/main/java/com/example/ecommerce/service/ProductService.java:[39,49] cannot find symbol
+[ERROR]   symbol:   method getNumReviews()
+[ERROR]   location: variable productDetails of type com.example.ecommerce.entity.Product
+[ERROR] /C:/java application/backend/src/main/java/com/example/ecommerce/service/ProductService.java:[40,51] cannot find symbol
+[ERROR]   symbol:   method getCountInStock()
+[ERROR]   location: variable productDetails of type com.example.ecommerce.entity.Product
+[ERROR] /C:/java application/backend/src/main/java/com/example/ecommerce/config/DataInitializer.java:[19,36] constructor Product in class com.example.ecommerce.entity.Product cannot be applied to given types;
+[ERROR]   required: no arguments
+[ERROR]   found:    <nulltype>,java.lang.String,java.lang.String,double,java.lang.String,java.lang.String,double,int,int
+[ERROR]   reason: actual and formal argument lists differ in length
+[ERROR] /C:/java application/backend/src/main/java/com/example/ecommerce/config/DataInitializer.java:[20,36] constructor Product in class com.example.ecommerce.entity.Product cannot be applied to given types;
+[ERROR]   required: no arguments
+[ERROR]   found:    <nulltype>,java.lang.String,java.lang.String,double,java.lang.String,java.lang.String,double,int,int
+[ERROR]   reason: actual and formal argument lists differ in length
+[ERROR] /C:/java application/backend/src/main/java/com/example/ecommerce/config/DataInitializer.java:[21,36] constructor Product in class com.example.ecommerce.entity.Product cannot be applied to given types;
+[ERROR]   required: no arguments
+[ERROR]   found:    <nulltype>,java.lang.String,java.lang.String,double,java.lang.String,java.lang.String,double,int,int
+[ERROR]   reason: actual and formal argument lists differ in length
+[ERROR] /C:/java application/backend/src/main/java/com/example/ecommerce/config/DataInitializer.java:[22,36] constructor Product in class com.example.ecommerce.entity.Product cannot be applied to given types;
+[ERROR]   required: no arguments
+[ERROR]   found:    <nulltype>,java.lang.String,java.lang.String,double,java.lang.String,java.lang.String,double,int,int
+[ERROR]   reason: actual and formal argument lists differ in length
+[ERROR] /C:/java application/backend/src/main/java/com/example/ecommerce/config/DataInitializer.java:[23,36] constructor Product in class com.example.ecommerce.entity.Product cannot be applied to given types;
+[ERROR]   required: no arguments
+[ERROR]   found:    <nulltype>,java.lang.String,java.lang.String,double,java.lang.String,java.lang.String,double,int,int
+[ERROR]   reason: actual and formal argument lists differ in length
+[ERROR] /C:/java application/backend/src/main/java/com/example/ecommerce/config/DataInitializer.java:[24,36] constructor Product in class com.example.ecommerce.entity.Product cannot be applied to given types;
+[ERROR]   required: no arguments
+[ERROR]   found:    <nulltype>,java.lang.String,java.lang.String,double,java.lang.String,java.lang.String,double,int,int
+[ERROR]   reason: actual and formal argument lists differ in length
+[ERROR] /C:/java application/backend/src/main/java/com/example/ecommerce/config/DataInitializer.java:[26,36] constructor Product in class com.example.ecommerce.entity.Product cannot be applied to given types;
+[ERROR]   required: no arguments
+[ERROR]   found:    <nulltype>,java.lang.String,java.lang.String,double,java.lang.String,java.lang.String,double,int,int
+[ERROR]   reason: actual and formal argument lists differ in length
+[ERROR] /C:/java application/backend/src/main/java/com/example/ecommerce/config/DataInitializer.java:[27,36] constructor Product in class com.example.ecommerce.entity.Product cannot be applied to given types;
+[ERROR]   required: no arguments
+[ERROR]   found:    <nulltype>,java.lang.String,java.lang.String,double,java.lang.String,java.lang.String,double,int,int
+[ERROR]   reason: actual and formal argument lists differ in length
+[ERROR] /C:/java application/backend/src/main/java/com/example/ecommerce/config/DataInitializer.java:[28,36] constructor Product in class com.example.ecommerce.entity.Product cannot be applied to given types;
+[ERROR]   required: no arguments
+[ERROR]   found:    <nulltype>,java.lang.String,java.lang.String,double,java.lang.String,java.lang.String,double,int,int
+[ERROR]   reason: actual and formal argument lists differ in length
+[ERROR] /C:/java application/backend/src/main/java/com/example/ecommerce/config/DataInitializer.java:[30,36] constructor Product in class com.example.ecommerce.entity.Product cannot be applied to given types;
+[ERROR]   required: no arguments
+[ERROR]   found:    <nulltype>,java.lang.String,java.lang.String,double,java.lang.String,java.lang.String,double,int,int
+[ERROR]   reason: actual and formal argument lists differ in length
+[ERROR] /C:/java application/backend/src/main/java/com/example/ecommerce/config/DataInitializer.java:[31,36] constructor Product in class com.example.ecommerce.entity.Product cannot be applied to given types;
+[ERROR]   required: no arguments
+[ERROR]   found:    <nulltype>,java.lang.String,java.lang.String,double,java.lang.String,java.lang.String,double,int,int
+[ERROR]   reason: actual and formal argument lists differ in length
+[ERROR] /C:/java application/backend/src/main/java/com/example/ecommerce/config/DataInitializer.java:[33,36] constructor Product in class com.example.ecommerce.entity.Product cannot be applied to given types;
+[ERROR]   required: no arguments
+[ERROR]   found:    <nulltype>,java.lang.String,java.lang.String,double,java.lang.String,java.lang.String,double,int,int
+[ERROR]   reason: actual and formal argument lists differ in length
+[ERROR] /C:/java application/backend/src/main/java/com/example/ecommerce/config/DataInitializer.java:[34,36] constructor Product in class com.example.ecommerce.entity.Product cannot be applied to given types;
+[ERROR]   required: no arguments
+[ERROR]   found:    <nulltype>,java.lang.String,java.lang.String,double,java.lang.String,java.lang.String,double,int,int
+[ERROR]   reason: actual and formal argument lists differ in length
+[ERROR] /C:/java application/backend/src/main/java/com/example/ecommerce/config/DataInitializer.java:[36,36] constructor Product in class com.example.ecommerce.entity.Product cannot be applied to given types;
+[ERROR]   required: no arguments
+[ERROR]   found:    <nulltype>,java.lang.String,java.lang.String,double,java.lang.String,java.lang.String,double,int,int
+[ERROR]   reason: actual and formal argument lists differ in length
+[ERROR] /C:/java application/backend/src/main/java/com/example/ecommerce/config/DataInitializer.java:[37,36] constructor Product in class com.example.ecommerce.entity.Product cannot be applied to given types;
+[ERROR]   required: no arguments
+[ERROR]   found:    <nulltype>,java.lang.String,java.lang.String,double,java.lang.String,java.lang.String,double,int,int
+[ERROR]   reason: actual and formal argument lists differ in length
+[ERROR] -> [Help 1]
+[ERROR] 
+[ERROR] To see the full stack trace of the errors, re-run Maven with the -e switch.
+[ERROR] Re-run Maven using the -X switch to enable full debug logging.
+[ERROR] 
+[ERROR] For more information about the errors and possible solutions, please read the following articles:
+[ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/MojoFailureException

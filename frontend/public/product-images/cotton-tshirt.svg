@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f3e5f5"/>
+      <stop offset="100%" stop-color="#e1bee7"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="600" rx="48" fill="url(#bg)"/>
+  <path d="M215 150 265 120h70l50 30 60 40-40 70-50-32v195H245V228l-50 32-40-70 60-40z" fill="#7b1fa2"/>
+  <path d="M274 132h52v52h-52z" fill="#f3e5f5"/>
+  <path d="M272 132c0 18 12 34 28 41 16-7 28-23 28-41" fill="#ce93d8"/>
+  <rect x="245" y="235" width="110" height="188" rx="20" fill="#8e24aa"/>
+  <text x="300" y="535" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="700" fill="#4a148c">Cotton T-Shirt</text>
+</svg>

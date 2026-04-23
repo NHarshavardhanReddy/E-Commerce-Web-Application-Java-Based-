@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fff3e0"/>
+      <stop offset="100%" stop-color="#ffe0b2"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="600" rx="48" fill="url(#bg)"/>
+  <circle cx="300" cy="240" r="120" fill="none" stroke="#263238" stroke-width="34"/>
+  <rect x="150" y="250" width="90" height="170" rx="38" fill="#263238"/>
+  <rect x="360" y="250" width="90" height="170" rx="38" fill="#263238"/>
+  <rect x="180" y="275" width="30" height="118" rx="14" fill="#90a4ae"/>
+  <rect x="390" y="275" width="30" height="118" rx="14" fill="#90a4ae"/>
+  <rect x="182" y="420" width="24" height="36" rx="12" fill="#ff8f00"/>
+  <rect x="394" y="420" width="24" height="36" rx="12" fill="#ff8f00"/>
+  <text x="300" y="535" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="700" fill="#263238">Wireless Headphones</text>
+</svg>

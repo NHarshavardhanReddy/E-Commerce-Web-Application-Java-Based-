@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 600">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#e8f5e9"/>
+      <stop offset="100%" stop-color="#c8e6c9"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="600" rx="48" fill="url(#bg)"/>
+  <rect x="150" y="220" width="110" height="190" rx="26" fill="#66bb6a"/>
+  <rect x="175" y="175" width="60" height="55" rx="14" fill="#43a047"/>
+  <rect x="270" y="180" width="120" height="230" rx="30" fill="#81c784"/>
+  <rect x="305" y="150" width="50" height="45" rx="12" fill="#43a047"/>
+  <rect x="405" y="260" width="70" height="150" rx="26" fill="#a5d6a7"/>
+  <rect x="417" y="238" width="46" height="26" rx="10" fill="#66bb6a"/>
+  <circle cx="300" cy="295" r="22" fill="#e8f5e9"/>
+  <path d="M290 295h20" stroke="#43a047" stroke-width="6" stroke-linecap="round"/>
+  <path d="M300 285v20" stroke="#43a047" stroke-width="6" stroke-linecap="round"/>
+  <text x="300" y="535" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="700" fill="#1b5e20">Skincare Set</text>
+</svg>
